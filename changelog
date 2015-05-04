@@ -1,3 +1,14 @@
+
+== 0.0.x ==
+  - Set up an actual ruby service on debian machine that works
+  - Copy it's init script into this repo
+  - record commands to make it boot automatically
+  - uninstall from debian, then test that this repo can install it
+  - create uninstall commands
+
+  - testing: copy Rakefile
+
+
 == 0.0.1 ==
   - readme
   - stubs

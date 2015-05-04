@@ -9,7 +9,6 @@ module ServiceInstaller
       @os = detect_os
 
       @c = config && return unless config.nil?
-
     end
 
     def install_service
